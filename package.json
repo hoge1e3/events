@@ -7,6 +7,7 @@
   "scripts": {
     "test": "node test/test.js"
   },
+  "repository": "https://github.com/hoge1e3/events",
   "author": "hoge1e3",
   "license": "MIT"
 }
