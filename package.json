@@ -1,0 +1,12 @@
+{
+  "type": "module",
+  "name": "@hoge1e3/events",
+  "version": "1.0.0",
+  "description": "Add event handler by 'on' method to objects. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "hoge1e3",
+  "license": "MIT"
+}
